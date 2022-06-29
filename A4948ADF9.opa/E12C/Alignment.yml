@@ -1,0 +1,38 @@
+segment_sources:
+  ID2AED89C:
+    type: origin_type
+    relation: translation
+    language: sa
+  IFB43C334:
+    type: origin_type
+    relation: translation
+    language: zh
+  I45900400:
+    type: origin_type
+    relation: translation
+    language: bo
+  IE5C99526:
+    type: origin_type
+    relation: translation
+    language: bo
+  IB334B1C7:
+    type: origin_type
+    relation: translation
+    language: mon
+  ID90C8A3D:
+    type: origin_type
+    relation: translation
+    language: fr
+  I0AAE1FA1:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  6c14345909614581a2c2096146fbca58:
+    ID2AED89C: 88ef72b9314d46349a6d548e68a58710
+    IFB43C334: ab0b9433599a4cc9a80296edbfa4067c
+    I45900400: 477ac22c02c64dc3a30a66ef9e3fda00
+    IE5C99526: eb1e35711b07468383ad7c4a05267e54
+    IB334B1C7: None
+    ID90C8A3D: None
+    I0AAE1FA1: None
